@@ -1,13 +1,13 @@
 {
-	"bundle_id": "org.{! a random string !}.Telegram",
-	"api_id": "{! get one at https://my.telegram.org/apps !}",
-	"api_hash": "{! get one at https://my.telegram.org/apps !}",
-	"team_id": "{! check README.md !}",
+	"bundle_id": "org.9899fe17f02c527f.Telegram",
+	"api_id": "4776587",
+	"api_hash": "7c3a7d476cfc1f1558a1060d0127b62d",
+	"team_id": "ZL85VTVZDZ",
 	"app_center_id": "0",
 	"is_internal_build": "true",
 	"is_appstore_build": "false",
 	"appstore_id": "0",
-	"app_specific_url_scheme": "tg",
+	"app_specific_url_scheme": "kiss",
 	"premium_iap_product_id": "",
 	"enable_siri": false,
 	"enable_icloud": false
